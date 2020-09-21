@@ -5,7 +5,7 @@ This is a rest api with mongodb and mongodb atlas testing for a react app.
 ___
 ## **Background**
 
-TThis is a backend using express, mongodb, mongodb atlas, morgan, nodemon, and cors. 
+This is a backend using express, mongodb, mongodb atlas, morgan, nodemon, and cors. 
 
 ___
 ## **Installation**
